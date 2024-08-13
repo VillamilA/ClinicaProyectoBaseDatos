@@ -4,4 +4,6 @@
 - Richard Robalino
 - Marco Tapia
 
-## Itroducción
+## Introducción del proyecto
+
+## Video Explicativo
