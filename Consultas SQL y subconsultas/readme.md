@@ -1,5 +1,6 @@
 ## Consultas y Subconsultas
-- Las consultas permiten recuperar y modificar datos en una base de datos. Las subconsultas son consultas dentro de una consulta principal que permiten realizar operaciones complejas, como filtrar o calcular datos en función de otros conjuntos de datos, haciéndolas más precisas y potentes.
+- Consulta: Es una instrucción SQL que extrae o manipula datos, como obtener una lista de todos los pacientes o ver todas las citas programadas para un médico específico.
+- Subconsulta: Es una consulta dentro de otra que se usa para realizar operaciones más complejas. Por ejemplo, puedes usar una subconsulta para encontrar todos los pacientes que tienen citas con un médico que se especializa en una determinada área médica, primero identificando a esos médicos y luego encontrando sus pacientes.
 
 ## Ejercicios
 ### Consultas básicas: SELECT, WHERE, ORDER BY, GROUP BY, HAVING. 
