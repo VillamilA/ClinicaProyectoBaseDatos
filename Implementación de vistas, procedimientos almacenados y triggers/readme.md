@@ -14,7 +14,7 @@ En la base de datos de una clínica:
 
 ![image](https://github.com/user-attachments/assets/f24279b3-1a42-40a7-8e94-1d3461ad9461)
 
-####Trigger
+#### Trigger
 
 ![image](https://github.com/user-attachments/assets/68c1c33b-913a-4266-88a8-44342925a46d)
 
@@ -22,7 +22,7 @@ En la base de datos de una clínica:
 
 ![image](https://github.com/user-attachments/assets/5925e753-f2d7-4a3a-b5df-ded95c1658b6)
 
-####Procedimiento
+#### Procedimiento
 
 ![image](https://github.com/user-attachments/assets/e95c2d8c-3d99-4121-a65e-e02967062a36)
 
