@@ -4,14 +4,19 @@
 ## Ejercicios
 ### Consultas básicas: SELECT, WHERE, ORDER BY, GROUP BY, HAVING. 
 - SELECT: Extrae datos de una tabla.
+
 ![image](https://github.com/user-attachments/assets/97572018-edd8-45d7-88ca-66d382e5f7a8)
 - WHERE: Filtra registros basados en una condición.
+
 ![image](https://github.com/user-attachments/assets/17e96374-12ae-461b-8cb0-26879eff3891)
 - ORDER BY: Ordena los resultados de la consulta.
+
 ![image](https://github.com/user-attachments/assets/70155591-272e-46c5-b455-f11e0ef46061)
 - GROUP BY: Agrupa registros que comparten un valor.
+
 ![image](https://github.com/user-attachments/assets/ad0a3cb2-0840-4ce4-8390-ec2b4087a1ff)
 - HAVING: Filtra grupos creados con GROUP BY basándose en una condición.
+
 ![image](https://github.com/user-attachments/assets/25347028-1ed2-4590-86bf-86cf8cddce51)
 
 ### Subconsultas
