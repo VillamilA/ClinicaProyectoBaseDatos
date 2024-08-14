@@ -1,4 +1,4 @@
-###INNER JOIN 
+### INNER JOIN 
 
 Consulta para obtener la información completa de las citas, incluyendo los datos del paciente, el doctor y el consultorio para cada cita: 
 
@@ -9,7 +9,7 @@ Consulta para obtener la información de cada cita junto con la descripción del
  ![image](https://github.com/user-attachments/assets/25c3c538-6b28-47d9-9f4a-9dfb21d04f8f)
 
 
-###LEFT JOIN 
+### LEFT JOIN 
 
 Consulta para obtener todos los pacientes y las citas que han tenido, incluyendo aquellos pacientes que no tienen citas: 
  
@@ -20,7 +20,7 @@ Consulta para obtener una lista de todos los pacientes junto con la información
  ![image](https://github.com/user-attachments/assets/eb847b99-5dee-4b55-bc75-9226012ea874)
 
 
-###RIGHT JOIN 
+### RIGHT JOIN 
 
 Consulta para obtener todos los doctores y las citas que tienen, incluyendo aquellos doctores que no han tenido citas: 
 
@@ -30,7 +30,7 @@ Consulta para obtener una lista de todas las citas junto con la información del
 
  ![image](https://github.com/user-attachments/assets/35d9cc9f-a3ea-4dc6-945f-7d690f6f25f9)
 
-###FULL OUTER JOIN 
+### FULL OUTER JOIN 
 
 En MySQL, no existe `FULL OUTER JOIN` directamente, por lo que se utiliza una combinación de `LEFT JOIN` y `RIGHT JOIN  
 
@@ -39,7 +39,7 @@ Consulta para obtener la información completa de citas y pacientes, incluyendo 
  ![image](https://github.com/user-attachments/assets/d067cd14-ef5b-471f-9049-bfd5b5c8f81e)
 
 
-###CROSS JOIN 
+### CROSS JOIN 
 
 Consulta para obtener una combinación de todas las especialidades con todos los doctores (Nota: `CROSS JOIN` puede producir una gran cantidad de resultados): 
 
