@@ -12,3 +12,4 @@ En el ámbito de la gestión clínica, la eficiencia en el manejo de datos y la 
 El objetivo principal de este proyecto es diseñar y gestionar una base de datos para una clínica que permita la administración efectiva de información relacionada con pacientes, doctores, citas, y otros aspectos cruciales de la operación clínica. 
 
 ## Video Explicativo
+https://youtu.be/uPcgBTiMdmU
