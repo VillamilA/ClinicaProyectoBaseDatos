@@ -1,4 +1,4 @@
-##Uso de Transacciones 
+### Uso de Transacciones 
 
 Implementa transacciones para asegurar que una serie de operaciones de bases de datos se realicen de manera atómica, es decir, todas o ninguna de las operaciones son ejecutadas 
 
@@ -6,7 +6,7 @@ Implementa transacciones para asegurar que una serie de operaciones de bases de 
 
 ![image](https://github.com/user-attachments/assets/47f73034-8995-461b-b690-6513639fe87a)
 
-##Aislamiento de Transacciones 
+### Aislamiento de Transacciones 
 
 MySQL soporta diferentes niveles de aislamiento de transacciones que controlan cómo y cuándo los cambios realizados por una transacción son visibles para otras transacciones concurrentes: 
 
@@ -20,7 +20,7 @@ SERIALIZABLE: Las transacciones se ejecutan como si fueran secuenciales, lo que 
  
 ![image](https://github.com/user-attachments/assets/22c8c8ce-746b-4622-8fe2-7a765f79be58)
 
-##Bloqueos (Locks) 
+### Bloqueos (Locks) 
 
 MySQL proporciona mecanismos de bloqueo que permiten controlar el acceso a filas específicas durante las transacciones: 
 
@@ -30,7 +30,7 @@ FOR UPDATE: Bloquea las filas seleccionadas, impidiendo que otras transacciones 
 
 ![image](https://github.com/user-attachments/assets/acb34300-2e22-4731-95d6-8bafc1daf2cd)
 
-##Control de Concurrencia Optimista 
+### Control de Concurrencia Optimista 
 
 Una técnica que puedes implementar es el control de concurrencia optimista, donde se verifica que los datos no han cambiado desde la última vez que fueron leídos antes de hacer un UPDATE. Esto se puede lograr mediante el uso de un campo de versión:
 
